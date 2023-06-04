@@ -2,7 +2,7 @@ import tensorflow as tf
 import pymongo
 
 # MongoDB connection string
-connection_string = 'mongodb+srv://jschmitz:slb2021@cisco-demo.tnhx6.mongodb.net/sample_mflix'
+connection_string = 'mongodb+srv://username:password@clusterinfo.mongodb.net/sample_mflix'
 
 # Connect to MongoDB
 client = pymongo.MongoClient(connection_string)
