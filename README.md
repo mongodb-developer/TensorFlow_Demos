@@ -10,13 +10,13 @@ This script demonstrates how to train a movie genre classification model using T
 2. Install TensorFlow using pip:
 
 ```
-pip install tensorflow
+pip3 install tensorflow
 ```
 
 
 3. Install the required additional modules:
 ```
-pip install pymongo
+pip3 install pymongo
 ```
 ## Usage
 
