@@ -4,7 +4,7 @@ from keras.preprocessing.text import Tokenizer
 from keras.preprocessing.sequence import pad_sequences
 
 # MongoDB connection string
-connection_string = 'mongodb+srv://jschmitz:slb2021@cisco-demo.tnhx6.mongodb.net/?retryWrites=true&w=majoritymongodb.net/sample_mflix'
+connection_string = 'mongodb+srv://username:password@clusterinfo.mongodb.net/?retryWrites=true&w=majoritymongodb.net/sample_mflix'
 
 # Connect to MongoDB
 client = pymongo.MongoClient(connection_string)
