@@ -2,7 +2,7 @@ import tensorflow as tf
 import pymongo
 
 # Connect to MongoDB Atlas
-client = pymongo.MongoClient('mongodb+srv://user:password@cisco-demo.tnhx6.mongodb.net/?retryWrites=true&w=majority')
+client = pymongo.MongoClient('mongodb+srv://user:password@clusterinfo.mongodb.net/?retryWrites=true&w=majority')
 db = client['sample_mflix']
 collection = db['movies']
 
