@@ -8,18 +8,15 @@ This script demonstrates how to train a movie genre classification model using T
 
 2. Install TensorFlow using pip:
 
+```
 pip install tensorflow
+```
 
-markdown
-Copy code
 
 3. Install the required additional modules:
-
+```
 pip install pymongo
-
-markdown
-Copy code
-
+```
 ## Usage
 
 1. Make sure you have a MongoDB Atlas account set up. If not, sign up for free at [https://www.mongodb.com/cloud/atlas](https://www.mongodb.com/cloud/atlas).
@@ -33,11 +30,9 @@ Copy code
 5. Open a terminal or command prompt and navigate to the project directory.
 
 6. Run the script using the following command:
-
+```
 python3 movies.py
-
-vbnet
-Copy code
+```
 
 This will start the training process and display the progress and accuracy.
 
