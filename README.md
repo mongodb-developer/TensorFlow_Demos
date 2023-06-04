@@ -1,5 +1,6 @@
 # Movie Genre Classification using TensorFlow
-![TensorFlow Logo]https://www.tensorflow.org/images/tf_logo_social.png
+![TensorFlow Logo](https://www.tensorflow.org/images/tf_logo_social.png)
+
 This script demonstrates how to train a movie genre classification model using TensorFlow. The model classifies movies into three genres: Western, History, and Musical.
 
 ## Installation
