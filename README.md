@@ -46,3 +46,8 @@ If you'd like to contribute to this project, feel free to fork the repository an
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more information.
+
+For more information, you can refer to the following documentation:
+
+- [TensorFlow Documentation](https://www.tensorflow.org/)
+- [Keras Documentation](https://keras.io/)
