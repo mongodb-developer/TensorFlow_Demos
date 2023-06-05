@@ -1,3 +1,4 @@
+# This will test the functionality of your TF installation does simple things
 import tensorflow as tf
 import pymongo
 
