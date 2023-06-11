@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
-import numpy as np
 import matplotlib.pyplot
+import numpy as np
 
 from sklearn.datasets import make_multilabel_classification
 from sklearn.multiclass import OneVsRestClassifier
