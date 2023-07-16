@@ -32,3 +32,4 @@ model.fit(x=x_train,
 
 #then run this
 tensorboard --logdir logs/fit
+#your tensorboard should pop up here http://localhost:6006/
